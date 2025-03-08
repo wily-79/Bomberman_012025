@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Bomberman_012025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bomberman_012025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Bomberman_012025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Bomberman_012025">
+      <UniqueIdentifier>{2DB99694-587C-3470-84B0-FEBC8EF8E161}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bomberman_012025\Bomberman_012025.Build.cs">
+      <Filter>Source\Bomberman_012025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025.cpp">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025.h">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025Character.cpp">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025Character.h">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025GameMode.cpp">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Bomberman_012025GameMode.h">
+      <Filter>Source\Bomberman_012025</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bomberman_012025\Private">
+      <UniqueIdentifier>{FA2488D7-1907-30A6-ACB3-719F63DFC107}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Private\Bloque.cpp">
+      <Filter>Source\Bomberman_012025\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Private\Muro.cpp">
+      <Filter>Source\Bomberman_012025\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bomberman_012025\Public">
+      <UniqueIdentifier>{C4291C79-9B0C-3482-B534-2700F533DF79}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Public\Bloque.h">
+      <Filter>Source\Bomberman_012025\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bomberman_012025\Public\Muro.h">
+      <Filter>Source\Bomberman_012025\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
